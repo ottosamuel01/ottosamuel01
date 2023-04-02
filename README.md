@@ -11,4 +11,5 @@ Cientista da Computação da Cesupa, estou no terceiro semestre e adoro programa
 <img width= '50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 
 ### Você também me encontra em:
-<a><\a>
+https://www.linkedin.com/in/otto-samuel-597826187/
+
