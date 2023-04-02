@@ -1,5 +1,5 @@
 <h2>### Oi meu nome é otto samuel 👋</h2>
-Cientista da Computação da Cesupa, estou no terceiro semestre e adoro programação.
+Cientista da Computação da Cesupa, e adoro programação.
 
 ▫️🧑‍💻 ***Aluno*** de ciência da computação
 <br>
