@@ -1,4 +1,4 @@
-<h2>Oi meu nome é otto samuel 👋</h2>
+<h2 color:blue;>Oi meu nome é <span>otto samuel</span> 👋</h2>
 Cientista da Computação da Cesupa, e adoro programação.
 
 ▫️🧑‍💻 ***Aluno*** de ciência da computação
